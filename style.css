@@ -1,0 +1,24 @@
+h1 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+html {
+font-family: system-ui;
+text-align: center;
+background-color: darksalmon;
+overflow-x: hidden;
+}
+
+footer {
+padding: 8px;
+background-color: darkcyan;
+border: 3px solid black;
+border-radius: 20px;
+}
+
+canvas {
+background-image: url('images/race_track.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
